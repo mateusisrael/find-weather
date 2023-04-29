@@ -1,8 +1,11 @@
 [TODO]
   - Cadastrar nos sites das APIs
-
+  - Instalar o styled-components
+  - Criar os primeiros componentes do app (não é para criar todos os componentes, mas somente os que são utilizados na tela de boas vindas)
+  - Criar a tela de boas vindas
 
 [DOING]
+  - Adicionar os estilos gerais
 
 [DONE]
   - Importar font Overpass
